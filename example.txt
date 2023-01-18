@@ -1,3 +1,6 @@
+My Changes
+My Changes
+My Changes!
 Example
 Conflict
 Hello!
@@ -25,4 +28,5 @@ Example
 Car
 Out
 Hello!
+My Changes
 Example
