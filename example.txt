@@ -1,4 +1,4 @@
-Help
+Example
 Conflict
 Hello!
 Example
@@ -11,7 +11,7 @@ Creator
 Hello!
 Example
 Car
-Conflict
+Example
 Hello!
 Example
 Car
@@ -25,4 +25,4 @@ Example
 Car
 Out
 Hello!
-Album
+Example
