@@ -1,6 +1,6 @@
-Help
-Conflict
-Hello!
+My Changes
+My Changes
+My Changes!
 Example
 Elephant
 Creator
@@ -25,4 +25,4 @@ Example
 Car
 Out
 Hello!
-Album
+My Changes
