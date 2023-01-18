@@ -2,6 +2,9 @@ My Changes
 My Changes
 My Changes!
 Example
+Conflict
+Hello!
+Example
 Elephant
 Creator
 God!
@@ -11,7 +14,7 @@ Creator
 Hello!
 Example
 Car
-Conflict
+Example
 Hello!
 Example
 Car
@@ -26,3 +29,4 @@ Car
 Out
 Hello!
 My Changes
+Example
